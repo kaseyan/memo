@@ -1,0 +1,27 @@
+#header {
+	background-color: #FFF;
+	width: 500px;
+	height: 100px
+}
+
+#bd {
+	background-color: #32CD32;
+	height: 500px
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 80px;
+	padding-top: 80px;
+	position: relative;
+	box-sizing: border-box;
+}
+
+#ttl {
+	color: #FFF;
+	font-size: 32px;
+	padding-left: 10px;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', 'ƒqƒ‰ƒMƒmŠpƒS ProN W3',Meiryo, ƒƒCƒŠƒI, sans-serif;
+}
+
+#login-form {
+	padding-left: 10px;
+	//text-align: center;
+}
